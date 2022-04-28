@@ -39,13 +39,7 @@
 
 # name= 'haniye'
 # print(name[0])
-num=100
-if num > 1:
-    # check for factors
-    for i in range(2, num):
-        if (num % i) == 0:
-            break
-    print(num)
+print("hello")
 
 
 
